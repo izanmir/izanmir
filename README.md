@@ -1,3 +1,8 @@
+# КОНТАКТЫ 📫
+
+[Telegram](https://t.me/izanmir) • [Email](mailto:anna.izimova@gmail.com) • [LinkedIn](https://linkedin.com/in/izimova) • [GitHub](https://github.com/izanmir)
+
+
 # ПРИВЕТ, Я АННА 👋
 
 Data Analyst / System Analyst с бэкграундом в нефтегазовой отрасли.  
