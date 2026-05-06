@@ -2,6 +2,10 @@
 
 [Telegram](https://t.me/izanmir) • [Email](mailto:anna.izimova@gmail.com) • [LinkedIn](https://linkedin.com/in/izimova) • [GitHub](https://github.com/izanmir)
 
+# КОНТАКТЫ 📫
+
+[![Telegram](https://img.shields.io/badge/TELEGRAM-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/your_username)
+[![Gmail](https://img.shields.io/badge/GMAIL-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:your_email@example.com)
 
 # ПРИВЕТ, Я АННА 👋
 
