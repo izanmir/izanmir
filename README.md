@@ -4,7 +4,6 @@
 [![Gmail](https://img.shields.io/badge/GMAIL-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:anna.izimova@gmail.com)
 
 # ПРИВЕТ, Я АННА 👋
-
 Data Analyst / System Analyst с бэкграундом в нефтегазовой отрасли.  
 В аналитику пришла через реальные бизнес-задачи: управление проектами, сбор требований, моделирование процессов и работу на стыке бизнеса, инженеров и подрядчиков.
 
